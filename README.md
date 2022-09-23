@@ -51,9 +51,9 @@ This section shares our summary and exploration of concepts and jargon related t
 |            |Indentation |     	      |缩进     	      |1     |
 
 
-> **1**: Tibetan translation proposed by Pentsok Whenggyel Rtsang
-> **2**: Some dictionary/glossary/etc.
-> **3**: Dictionary/glossary/etc.
+> - **1**: Tibetan translation proposed by Pentsok Whenggyel Rtsang
+> - **2**: Some dictionary/glossary/etc.
+> - **3**: Dictionary/glossary/etc.
 
 More content TBD.
 
@@ -75,23 +75,23 @@ More content TBD.
 
 > Proposed by Pentsok Whenggyel Rtsang
 
-### Related terminology in graphical design & front-end development
+### Related terminology in Graphic design & front-end development
 
 |Category      |English     |Tibetan       |Chinese      |Remark    |
 |--------------|------------|--------------|-------------|-----------|
-|Visual design |Display	  |སྲབ་མོ་བཙུར་མ།      |སྲབ་མོ་བཙུར་ཙམ།     |**སྲབ་མོ།**     |
-|              |Text	      |སྲབ་མོ་བཙུར་མ།      |སྲབ་མོ་བཙུར་ཙམ།     |**སྲབ་མོ།**     |
-|100 |Display	  |སྲབ་མོ་བཙུར་མ།      |སྲབ་མོ་བཙུར་ཙམ།     |**སྲབ་མོ།**     |
-|Usability |Text	      |སྲབ་མོ་བཙུར་མ།      |སྲབ་མོ་བཙུར་ཙམ།     |**སྲབ་མོ།**     |
-|100 |Display	  |སྲབ་མོ་བཙུར་མ།      |སྲབ་མོ་བཙུར་ཙམ།     |**སྲབ་མོ།**     |
-|100 |Text	      |སྲབ་མོ་བཙུར་མ།      |སྲབ་མོ་བཙུར་ཙམ།     |**སྲབ་མོ།**     |
-|Front-end development|Display	  |སྲབ་མོ་བཙུར་མ།      |སྲབ་མོ་བཙུར་ཙམ།     |**སྲབ་མོ།**     |
-|100 |Text	      |སྲབ་མོ་བཙུར་མ།      |སྲབ་མོ་བཙུར་ཙམ།     |**སྲབ་མོ།**     |
-|100 |Display	  |སྲབ་མོ་བཙུར་མ།      |སྲབ་མོ་བཙུར་ཙམ།     |**སྲབ་མོ།**     |
-|100 |Text	      |སྲབ་མོ་བཙུར་མ།      |སྲབ་མོ་བཙུར་ཙམ།     |**སྲབ་མོ།**     |
-> **1**: Tibetan translation proposed by Pentsok Whenggyel Rtsang
-> **2**: Dictionary/glossary/etc.
-> **3**: Dictionary/glossary/etc.
+|Graphic design |Graphic design |          |平面设计       |2        |
+|              |          |          |          |           |
+|              |          |          |          |           |
+|Usability     |Usability  |         | 易用性          |1       |
+|              |legibility          |          | 易读性   |1           |
+|              |          |          |          |           |
+|Front-end development|Front-end development |               |前端开发      |2        |
+|              |          |          |          |           |
+|              |          |          |          |           |
+|              |          |          |          |           |
+> - **1**: Tibetan translation proposed by Pentsok Whenggyel Rtsang
+> - **2**: Dictionary/glossary/etc.
+> - **3**: Dictionary/glossary/etc.
 
 More content TBD.
 
