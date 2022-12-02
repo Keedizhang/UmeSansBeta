@@ -2,6 +2,7 @@
 # Concept and terminology
 
 This section shares our summary and exploration of concepts and jargon related to the project.
+
 (Work in progress)
 
 ### Typeface and text layout concepts
