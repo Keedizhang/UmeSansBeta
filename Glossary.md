@@ -5,6 +5,44 @@ This section shares our summary and exploration of concepts and jargon related t
 
 (Work in progress)
 
+
+### Font **Weight** vs **Width**
+
+|    |            |Condensed    |SemiCondensed |Regular    |Expanded    |
+|----|------------|--------------|-------------|-----------|------------|
+|100 |Thin	      |སྲབ་མོ་བཙུར་མ།      |སྲབ་མོ་བཙུར་ཙམ།     |**སྲབ་མོ།**     |TBD        |
+|200 |UltraLight  |སྲབ་ཕྲ་བཙུར་མ།      |སྲབ་ཕྲ་བཙུར་ཙམ།     |**སྲབ་ཕྲ།**    |TBD        |
+|300 |Light       |ཕྲ་བུ་བཙུར་མ།       |ཕྲ་བུ་བཙུར་ཙམ།      |**ཕྲ་བུ།**     |TBD        |
+|400 |**Regular** |**ཚད་ལྡན་བཙུར་མ།** |**ཚད་ལྡན་བཙུར་ཙམ།** |**ཚད་ལྡན།**   |**TBD**  |
+|500 |Medium      |བར་མ་བཙུར་མ།      |བར་མ་བཙུར་ཙམ།     |**བར་མ།**    |TBD        |
+|600 |SemiBold    |སྦོམ་ཙམ་བཙུར་མ།     |སྦོམ་ཙམ་བཙུར་ཙམ།    |**སྦོམ་ཙམ།**   |TBD        |
+|700 |Bold        |སྦོམ་པོ་བཙུར་མ།      |སྦོམ་པོ་བཙུར་ཙམ།     |**སྦོམ་པོ།**    |TBD        |
+|800 |ExtraBold   |ཤིན་ཏུ་སྦོམ་པོ་བཙུར་མ།   |ཤིན་ཏུ་སྦོམ་པོ་བཙུར་ཙམ།  |**ཤིན་ཏུ་སྦོམ་པོ།** |TBD        |
+|900 |Black       |ནག་པོ་བཙུར་མ།      |ནག་པོ་བཙུར་ཙམ།     |**ནག་པོ།**    |TBD        |
+
+> Proposed by Pentsok Whenggyel Rtsang
+
+### Related terminology in Graphic design & front-end development
+
+|Category      |English     |Tibetan       |Chinese      |Remark    |
+|--------------|------------|--------------|-------------|-----------|
+|Graphic design |Graphic design |          |平面设计       |2        |
+|              |          |          |          |           |
+|              |          |          |          |           |
+|Usability     |Usability  |         | 易用性          |1       |
+|              |legibility          |          | 易读性   |1           |
+|              |          |          |          |           |
+|Front-end development|Front-end development |               |前端开发      |2        |
+|              |          |          |          |           |
+|              |          |          |          |           |
+|              |          |          |          |           |
+> - **1**: Tibetan translation proposed by Pentsok Whenggyel Rtsang
+> - **2**: Dictionary/glossary/etc.
+> - **3**: Dictionary/glossary/etc.
+
+More content TBD.
+
+
 ### Typeface and text layout concepts
 
 |Category     |English     |Tibetan       |Chinese      |Remark    |
@@ -45,38 +83,3 @@ More content TBD.
 
 
 
-### Font **Weight** vs **Width**
-
-|    |            |Condensed    |SemiCondensed |Regular    |Expanded    |
-|----|------------|--------------|-------------|-----------|------------|
-|100 |Thin	      |སྲབ་མོ་བཙུར་མ།      |སྲབ་མོ་བཙུར་ཙམ།     |**སྲབ་མོ།**     |TBD        |
-|200 |UltraLight  |སྲབ་ཕྲ་བཙུར་མ།      |སྲབ་ཕྲ་བཙུར་ཙམ།     |**སྲབ་ཕྲ།**    |TBD        |
-|300 |Light       |ཕྲ་བུ་བཙུར་མ།       |ཕྲ་བུ་བཙུར་ཙམ།      |**ཕྲ་བུ།**     |TBD        |
-|400 |**Regular** |**ཚད་ལྡན་བཙུར་མ།** |**ཚད་ལྡན་བཙུར་ཙམ།** |**ཚད་ལྡན།**   |**TBD**  |
-|500 |Medium      |བར་མ་བཙུར་མ།      |བར་མ་བཙུར་ཙམ།     |**བར་མ།**    |TBD        |
-|600 |SemiBold    |སྦོམ་ཙམ་བཙུར་མ།     |སྦོམ་ཙམ་བཙུར་ཙམ།    |**སྦོམ་ཙམ།**   |TBD        |
-|700 |Bold        |སྦོམ་པོ་བཙུར་མ།      |སྦོམ་པོ་བཙུར་ཙམ།     |**སྦོམ་པོ།**    |TBD        |
-|800 |ExtraBold   |ཤིན་ཏུ་སྦོམ་པོ་བཙུར་མ།   |ཤིན་ཏུ་སྦོམ་པོ་བཙུར་ཙམ།  |**ཤིན་ཏུ་སྦོམ་པོ།** |TBD        |
-|900 |Black       |ནག་པོ་བཙུར་མ།      |ནག་པོ་བཙུར་ཙམ།     |**ནག་པོ།**    |TBD        |
-
-> Proposed by Pentsok Whenggyel Rtsang
-
-### Related terminology in Graphic design & front-end development
-
-|Category      |English     |Tibetan       |Chinese      |Remark    |
-|--------------|------------|--------------|-------------|-----------|
-|Graphic design |Graphic design |          |平面设计       |2        |
-|              |          |          |          |           |
-|              |          |          |          |           |
-|Usability     |Usability  |         | 易用性          |1       |
-|              |legibility          |          | 易读性   |1           |
-|              |          |          |          |           |
-|Front-end development|Front-end development |               |前端开发      |2        |
-|              |          |          |          |           |
-|              |          |          |          |           |
-|              |          |          |          |           |
-> - **1**: Tibetan translation proposed by Pentsok Whenggyel Rtsang
-> - **2**: Dictionary/glossary/etc.
-> - **3**: Dictionary/glossary/etc.
-
-More content TBD.
