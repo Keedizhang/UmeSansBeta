@@ -6,7 +6,7 @@ This repository contains documentation about the UmeSansBeta fonts project. It a
 
 We're looking forward to having more people join our journey of advocating the digital existence of the language and invigorating the artistic creativity of the community in our time.
 
-You can download the latest version right here on Github. Our more stable version is available here on [Baidupan (百度云盘)]( https://pan.baidu.com/s/1vdxChrwu2VaudwscPnyIaw?pwd=1111) for users from mainland China, and here on [Google drive]().
+You can download the latest version right here on Github. Our more stable version is available here on [Baidupan (百度云盘)]( https://pan.baidu.com/s/1vdxChrwu2VaudwscPnyIaw?pwd=1111) for users from mainland China.
 
 
 ## Design rationale & goals 
@@ -77,10 +77,9 @@ UmeSansBeta is inspired by various attempts of trying sans serif style in font d
 
 You can help with the UmeSansBeta development in several ways: test the fonts in various documents, report problems that you find, give design critiques, suggest better translations, or submit changes to the fonts.
 
-- [Weibo]()
-- [Twitter]()
-- [Instagram]()
-- [Download (百度云盘 in Chinese)]()
-- [Tsaenya Techology]()
-- [Pentsok]()
-- [Dorje]()
+- [Weibo](https://weibo.com/n/KhaWaType)
+- [Twitter](https://twitter.com/KhaWaType)
+- [Download (百度云盘 in Chinese)](https://pan.baidu.com/s/1vdxChrwu2VaudwscPnyIaw?pwd=1111)
+- Kedi [Weibo](https://weibo.com/u/6240241937)
+- Dorje [Weibo](https://weibo.com/u/5455099517) [Twitter](https://twitter.com/DhondapD)
+- Pentsok [Instagram](https://www.instagram.com/artist_puntsok/)
