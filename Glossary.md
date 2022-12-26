@@ -13,14 +13,16 @@ This section shares our summary and exploration of concepts and jargon related t
 |100 |Thin	      |སྲབ་མོ་བཙུར་མ།      |སྲབ་མོ་བཙུར་ཙམ།     |**སྲབ་མོ།**     |TBD        |
 |200 |UltraLight  |སྲབ་ཕྲ་བཙུར་མ།      |སྲབ་ཕྲ་བཙུར་ཙམ།     |**སྲབ་ཕྲ།**    |TBD        |
 |300 |Light       |ཕྲ་བུ་བཙུར་མ།       |ཕྲ་བུ་བཙུར་ཙམ།      |**ཕྲ་བུ།**     |TBD        |
-|400 |**Regular** |**ཚད་ལྡན་བཙུར་མ།** |**ཚད་ལྡན་བཙུར་ཙམ།** |**ཚད་ལྡན།**   |**TBD**  |
+|400 |**Regular** |**སོར་བཞག་བཙུར་མ།** |**སོར་བཞག་བཙུར་ཙམ།** |**སོར་བཞག**   |**TBD**  |
 |500 |Medium      |བར་མ་བཙུར་མ།      |བར་མ་བཙུར་ཙམ།     |**བར་མ།**    |TBD        |
-|600 |SemiBold    |སྦོམ་ཙམ་བཙུར་མ།     |སྦོམ་ཙམ་བཙུར་ཙམ།    |**སྦོམ་ཙམ།**   |TBD        |
+|600 |SemiBold    |ཕྱེད་སྦོམ་བཙུར་མ།     |ཕྱེད་སྦོམ་བཙུར་ཙམ།    |**ཕྱེད་སྦོམ།**   |TBD        |
 |700 |Bold        |སྦོམ་པོ་བཙུར་མ།      |སྦོམ་པོ་བཙུར་ཙམ།     |**སྦོམ་པོ།**    |TBD        |
 |800 |ExtraBold   |ཤིན་ཏུ་སྦོམ་པོ་བཙུར་མ།   |ཤིན་ཏུ་སྦོམ་པོ་བཙུར་ཙམ།  |**ཤིན་ཏུ་སྦོམ་པོ།** |TBD        |
-|900 |Black       |ནག་པོ་བཙུར་མ།      |ནག་པོ་བཙུར་ཙམ།     |**ནག་པོ།**    |TBD        |
+|900 |Black       |ནག་བྲིས་བཙུར་མ།      |ནག་བྲིས་བཙུར་ཙམ།     |**ནག་བྲིས།**    |TBD        |
 
-> Proposed by Pentsok Whenggyel Rtsang
+> Proposed by Pentsok Whenggyel Rtsang, the term "Black" is translated by Dhondrup Dorje
+>  
+>  རྩང་ཕུན་དབང་གིས་འགྱུར་མིང་གི་གྲོས་གཞི་བཏོན། ནག་བྲིས་ཞེས་པའི་འགྱུར་དེ་དོན་གྲུབ་རྡོ་རྗེ་ནས་བསྒྱུར། 
 
 ### Related terminology in Graphic design & front-end development
 
@@ -36,7 +38,7 @@ This section shares our summary and exploration of concepts and jargon related t
 |               |          |          |          |           |
 |               |          |          |          |           |
 |               |          |          |          |           |
-> - **1**: Tibetan translation proposed by Pentsok Whenggyel Rtsang
+> - **1**: Tibetan translation proposed by Pentsok Whenggyel Rtsang | རྩང་ཕུན་དབང་གིས་འགྱུར་མིང་གི་གྲོས་གཞི་བཏོན།
 > - **2**: Dictionary/glossary/etc.
 > - **3**: Dictionary/glossary/etc.
 
@@ -70,12 +72,12 @@ More content TBD.
 |            |Kerning     |ཡིག་འབྲུའི་འབྲེལ་འཚམས། |字偶距     	  |2     |
 |            |Font size   |ཡི་གེའི་ཆེ་ཆུང་།     |字号     	      |2     |
 |            |Leading     |ཡིག་ཕྲེང་བར་ཐག     |行高     	      |2     |
-|            |     	      |     	      |行距     	      |2     |
+|            |     	      |     	      |行距     	      |1     |
 |            |letter-spacing |ཡིག་འབྲུའི་བར་ཐག     |字距     	    |3     |
 |            |Indentation |ཡིག་མགོའི་བར་ཐག    |缩进     	      |2     |
 
 
-> - **1**: Tibetan translation proposed by Pentsok Whenggyel Rtsang
+> - **1**: Tibetan translation proposed by Pentsok Whenggyel Rtsang, the terms 'Serif" and "Sans Serif" are translated by Dhondrup Dorje | རྩང་ཕུན་དབང་གིས་འགྱུར་མིང་གི་གྲོས་གཞི་བཏོན། སྤྲོས་ལྡན་དང་སྤྲོས་མེད་ཅེས་པའི་འགྱུར་དེ་གཉིས་དོན་གྲུབ་རྡོ་རྗེ་ནས་བསྒྱུར། 
 > - **2**: Some dictionary/glossary/etc.
 > - **3**: Dictionary/glossary/etc.
 
