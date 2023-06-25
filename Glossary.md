@@ -54,11 +54,11 @@ More content TBD.
 |            |Type design  |ཡིག་གཟུགས་ཇུས་འགོད། |字体设计        |3     |
 |            |Typeface		|ཡིག་གཟུགས།     	|字体     	      |2     |
 |            |Font family  	|ཡིག་གཟུགས་ཁྱིམ་རྒྱུད།  |字型家族         |2     |
-|            |Font			|ཡིག་གཟུགས།     	      |字型     	       |2     |
+|            |Font			|ཡིག་ཚུགས།     	      |字型     	       |2     |
 |            |Glyph 	      |ཡིག་འབྲུ།     	   |字形   	       |2     |
-|            |Calligraphy styles |ཡིག་ཚུགས།   |书法风格/书体    |2     |
+|            |Calligraphy styles |ཡིག་གཟུགས་འབྲི་རྩལ།   |书法风格/书体    |2     |
 |            |     	      |     	      |     	      |     |
-|Variation   |Display font |འཆར་ཡིག        |标题体          |2     |
+|Variation   |Display font |ཁ་ཡིག        |标题体          |2     |
 |            |Text font    |དཀྱུས་ཡིག     |正文体           |2    |
 |            |Serif        |སྤྲོས་ལྡན།     	      |线衬   	      |2    |
 |            |Serif typeface |སྤྲོས་ལྡན་ཡིག་གཟུགས།    |线衬体         |2    |
