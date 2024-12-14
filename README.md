@@ -1,13 +1,41 @@
 # UmeSansBeta fonts documentation
 
-This repository contains documentation about the UmeSansBeta fonts project. It also serves as a site for documenting the exploration of translating concepts and terms from Western typeface and graphic design into the Tibetan language.
+This repository contains documentation about the ~~UmeSansBeta fonts~~ *KhaWa Betsugs Sans* project. It also serves as a site for documenting the exploration of translating concepts and terms from Western typeface and graphic design into the Tibetan language.
 
-"UmeSansBeta" is a temporary name for an open-source project that explores sans-serif Tibetan font design based on Ume scripts. The major goal of the project is to investigate the technical, aesthetic, and usability aspects of applying the concept of sans-serif typography to Tibetan scripts, creating a neutral, modern, and legible font family.
+1. [Download](#download)
+2. [Supported Characters](#supported-characters)
+3. [Design Rationale & Goals](#design-rationale--goals)
+4. [About us & Contributing](#about-us--contributing)
 
-We look forward to welcoming more contributors to join our journey of advocating for the digital presence of the Tibetan language and invigorating the artistic creativity of the community in our time.
 
-You can download the latest version here on GitHub. A more stable version is available on [Baidupan (百度云盘)]( https://pan.baidu.com/s/1vdxChrwu2VaudwscPnyIaw?pwd=1111) for users from mainland China.
+~~"UmeSansBeta" is a temporary name for~~ ཁ་བའི་སྤྲོས་མེད་དཔེ་ཚུགས། `Tb`, 卡瓦柏簇无衬线体 `Zh`, KhaWa Betsugs Sans `En` is an open-source project that explores sans-serif Tibetan font design based on Ume scripts. The major goal of the project is to investigate the technical, aesthetic, and usability aspects of applying the concept of sans-serif typography to Tibetan scripts, creating a neutral, modern, and legible font family.
 
+We look forward to welcoming more contributors to join our journey of **advocating for the digital presence of the Tibetan language and invigorating the artistic creativity of the community in our time.**
+
+## Download 
+
+You can download the latest version here in [Releases](/releases). A more stable version is available on [Baidupan]( https://pan.baidu.com/s/1vdxChrwu2VaudwscPnyIaw?pwd=1111) for users from mainland China. 
+- ~~Non-variable versions are in folder `不可变` for users with this need.~~
+- Original beta versions are in folder [Draft-V8-Display](/UmeSansDraft-V8-Display) and [Draft-V8-Text](/UmeSansDraft-V8-Text). We don't recommend using these anymore.
+
+点击 [Releases](/releases) 可直接下载安装文件包，~~其中包含 4 个字体文件：
+.otf 和 .ttf 文件可用于桌面端安装，双击打开文件，按照系统提示安装文件即可；
+.woff2 为网页字体格式，供网站开发人员使用；~~
+大陆地区用户可从 [百度云盘]( https://pan.baidu.com/s/1vdxChrwu2VaudwscPnyIaw?pwd=1111) 获取最新的版本。
+- ~~需要在不支持可变字体的环境中使用字体的用户，可以在名为`不可变`的文件夹中获取传统字体文件。~~
+- 最初发布的测试版本仍可在[Draft-V8-Display](/UmeSansDraft-V8-Display) 和 [Draft-V8-Text](/UmeSansDraft-V8-Text)中找到。不推荐大家继续使用。
+
+
+## Supported Characters 
+
+Modern Tibetan generally doesn't borrow punctuation marks from the Latin system. KhaWa Betsugs Sans features unprecedented visual compatibility with many sans-serif Latin typefaces. Based on these two reasons, we didn't include any Latin character designs in this typeface.
+
+Unicode Tibetan:
+https://unicode.org/charts/nameslist/n_0F00.html
+
+For support on complex conjunction glyphs, see [here](https://github.com/Keedizhang/UmeSansBeta/blob/main/CHANGELOG.md#---%E0%BD%96%E0%BD%A2%E0%BE%A9%E0%BD%BA%E0%BD%82%E0%BD%A6%E0%BD%A1%E0%BD%B2%E0%BD%82%E0%BD%A6%E0%BD%BC%E0%BD%82%E0%BD%A6%E0%BD%85%E0%BD%B4%E0%BD%84%E0%BD%A2%E0%BE%99%E0%BD%BC%E0%BD%82%E0%BD%A0%E0%BD%9B%E0%BD%B2%E0%BD%84%E0%BD%85%E0%BD%93%E0%BD%82%E0%BE%B1%E0%BD%B2%E0%BD%A1%E0%BD%B2%E0%BD%82%E0%BD%BA%E0%BD%81%E0%BD%82%E0%BD%A6%E0%BD%96%E0%BD%94).
+
+For support on punctuation marks, see [here](https://github.com/Keedizhang/UmeSansBeta/blob/main/CHANGELOG.md#---%E0%BD%96%E0%BD%A2%E0%BE%A1%E0%BD%A2%E0%BE%9F%E0%BD%82%E0%BD%A6%E0%BD%9A%E0%BD%BA%E0%BD%82%E0%BD%A4%E0%BD%91%E0%BD%80%E0%BE%B1%E0%BD%B2%E0%BD%A0%E0%BD%86%E0%BD%A2%E0%BD%A6%E0%BE%9F%E0%BD%84%E0%BD%A6%E0%BD%96%E0%BD%9F%E0%BD%BC%E0%BD%96%E0%BD%85%E0%BD%BC%E0%BD%A6).
 
 ## Design Rationale & Goals 
 
@@ -93,11 +121,13 @@ Given the limited precedent for applying a sans-serif style in Tibetan scripts, 
 
 ## About us & Contributing
 
-UmeSansBeta is inspired by various attempts of trying sans serif style in font design among the younger generation of native Tibetan language users, graphic designers, and developers in early 2021. After Kedi Zhang finished up the preliminary working prototype in mid 2022, Pentsok Whenggyel Rtsang and Dondrup Dorje started contributing to the project in various perspectives like design concept investigation and jargon translation, design feedback and iteration, as well as external communication work.
+~~UmeSansBeta~~ **KhaWa Betsugs Sans** is inspired by various attempts at sans-serif font design by younger native Tibetan language users, graphic designers, and developers since early 2021. 
 
-UmeSansBeta is inspired by various attempts at sans-serif font design by younger native Tibetan language users, graphic designers, and developers since early 2021. After Kedi Zhang completed a preliminary working prototype in mid-2022, Pentsok Whenggyel Rtsang and Dondrup Dorje started contributing to the project in various ways, including jargon translation, collecting design feedback, and external communication.
+After Kedi Zhang completed a preliminary working prototype in mid-2022, Pentsok Whenggyel Rtsang and Dondrup Dorje started contributing to the project in various ways, including jargon translation, collecting design feedback, and external communication.
 
-You can help with UmeSansBeta development in several ways:
+Based on these feedbacks, Kedi refined and finished the design and development work of KhaWa Betsugs Sans v1.0.0 on Dec 2024.
+
+You can continue help with KhaWa Betsugs Sans in several ways:
 
 - Test the fonts in various documents.
 - Report problems you encounter.

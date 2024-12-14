@@ -73,7 +73,7 @@ More content TBD.
 
 
 > - Most translations come from dictionary/ existing glossary/etc.
-> - **1** New terms are mostly proposed by Pentsok Whenggyel Rtsang, the terms 'Serif", "Sans Serif" and "Variable fonts" are translated by Dhondrup Dorje | རྩང་ཕུན་དབང་གིས་འགྱུར་མིང་གི་གྲོས་གཞི་བཏོན། སྤྲོས་ལྡན་དང་སྤྲོས་མེད་ཅེས་པའི་འགྱུར་དེ་གཉིས་དོན་གྲུབ་རྡོ་རྗེ་ནས་བསྒྱུར། 
+> - *1 New terms are mostly proposed by Pentsok Whenggyel Rtsang, the terms 'Serif", "Sans Serif" and "Variable fonts" are translated by Dhondrup Dorje | རྩང་ཕུན་དབང་གིས་འགྱུར་མིང་གི་གྲོས་གཞི་བཏོན། སྤྲོས་ལྡན་དང་སྤྲོས་མེད་ཅེས་པའི་འགྱུར་དེ་གཉིས་དོན་གྲུབ་རྡོ་རྗེ་ནས་བསྒྱུར། 
 
 More content TBD.
 
