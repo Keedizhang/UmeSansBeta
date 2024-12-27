@@ -1,4 +1,8 @@
-![Extreme Weight](Doc/Image/HEADER.svg)
+<h1 align="center">
+  <picture>
+    <img src="Doc/Image/HEADER.svg" alt="KhaWa Betsugs Sans" title="KhaWa Betsugs Sans">
+  </picture>
+</h1>
 
 This repository contains documentation about the ~~UmeSansBeta fonts~~ *KhaWa Betsugs Sans* project. It also serves as a site for documenting the exploration of translating concepts and terms from Western typeface and graphic design into the Tibetan language.
 
@@ -14,11 +18,11 @@ We look forward to welcoming more contributors to join our journey of **advocati
 
 ## Download 
 
-You can download the latest version `KhaWaBetsugsSans-v1.0.0.zip` in [Releases](/releases). The package come with 2 files in `.ttf` ~~and `woff2`~~. A more stable version is available on [Baidupan]( https://pan.baidu.com/s/1vdxChrwu2VaudwscPnyIaw?pwd=1111) for users from mainland China. 
+You can download the latest version `KhaWaBetsugsSans-v1.0.0.zip` in [Releases](https://github.com/Keedizhang/UmeSansBeta/releases). The package come with 2 files in `.ttf` ~~and `woff2`~~. A more stable version is available on [Baidupan]( https://pan.baidu.com/s/1vdxChrwu2VaudwscPnyIaw?pwd=1111) for users from mainland China. 
 - Non-variable versions in `.otf` and `.ttf` formats are in folder [Non-Variable](/Non-Variable) for users with this need.
 - Original beta versions are in folder [BetaVersion](/BetaVersion). We don't recommend using these anymore.
 
-点击 [Releases](/releases) 可直接下载安装文件包 `KhaWaBetsugsSans-v1.0.0.zip`，其中包含 2 个字体文件：`.ttf` 文件可用于桌面端安装，双击打开文件，按照系统提示安装文件即可。~~`.woff2` 为网页字体格式，供网站开发人员使用。~~ 大陆地区用户可从 [百度云盘]( https://pan.baidu.com/s/1vdxChrwu2VaudwscPnyIaw?pwd=1111) 获取最新的版本。
+点击 [Releases](https://github.com/Keedizhang/UmeSansBeta/releases) 可直接下载安装文件包 `KhaWaBetsugsSans-v1.0.0.zip`，其中包含 2 个字体文件：`.ttf` 文件可用于桌面端安装，双击打开文件，按照系统提示安装文件即可。~~`.woff2` 为网页字体格式，供网站开发人员使用。~~ 大陆地区用户可从 [百度云盘]( https://pan.baidu.com/s/1vdxChrwu2VaudwscPnyIaw?pwd=1111) 获取最新的版本。
 - 需要在不支持可变字体的环境中使用字体的用户，可以在文件夹 [Non-Variable](/Non-Variable) 中获取格式为 `.otf` 和 `.ttf` 的传统字体文件。
 - 最初发布的测试版本仍可在 [BetaVersion](/BetaVersion) 中找到。不推荐大家继续使用。
 
@@ -138,4 +142,4 @@ Contact us:
 - [Download (百度云盘 in Chinese)](https://pan.baidu.com/s/1vdxChrwu2VaudwscPnyIaw?pwd=1111)
 - Kedi [Weibo](https://weibo.com/u/6240241937)
 - Dorje [Weibo](https://weibo.com/u/5455099517) [Twitter](https://twitter.com/DhondapD)
-- Pentsok [Instagram](https://www.instagram.com/artist_puntsok/)
+- Pentsok [GitHub](https://github.com/Pentsok) [Instagram](https://www.instagram.com/artist_puntsok/)
