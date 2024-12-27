@@ -4,6 +4,15 @@
 
 ## [[Unreleased]]
 
+
+
+## [v1.0.0 (2024-12-26)]
+
+1. Compiling files and finishing up documentations.
+2. Adding discrete non-variable files. 
+3. Correct "overlap-removal" error in .otf files.
+
+
 ## [v0.4.0 (2024-12-13)]
 
 
@@ -121,7 +130,8 @@ This [section](https://github.com/Keedizhang/UmeSansBeta/blob/main/Glossary.md) 
 Testing version
 
 
-[Unreleased]: https://github.com/atelier-anchor/smiley-sans/compare/v0.4.0...main
+[Unreleased]: https://github.com/Keedizhang/UmeSansBeta/compare/v1.0.0...main
+[v1.0.0 (2024-12-26)]: https://github.com/Keedizhang/UmeSansBeta/compare/v0.4.0...v1.0.0
 [v0.4.0 (2024-12-13)]: https://github.com/Keedizhang/UmeSansBeta/compare/v0.3.0...v0.4.0
 [v0.3.0 (2024-12-12)]: https://github.com/Keedizhang/UmeSansBeta/compare/v0.2.0...v0.3.0
 [v0.2.0 (2022-12-02)]: https://github.com/Keedizhang/UmeSansBeta/compare/v0.1.0...v0.2.0
