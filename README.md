@@ -1,4 +1,4 @@
-# UmeSansBeta fonts documentation
+![Extreme Weight](Doc/Image/HEADER.svg)
 
 This repository contains documentation about the ~~UmeSansBeta fonts~~ *KhaWa Betsugs Sans* project. It also serves as a site for documenting the exploration of translating concepts and terms from Western typeface and graphic design into the Tibetan language.
 
@@ -14,16 +14,13 @@ We look forward to welcoming more contributors to join our journey of **advocati
 
 ## Download 
 
-You can download the latest version here in [Releases](/releases). A more stable version is available on [Baidupan]( https://pan.baidu.com/s/1vdxChrwu2VaudwscPnyIaw?pwd=1111) for users from mainland China. 
-- ~~Non-variable versions are in folder `不可变` for users with this need.~~
-- Original beta versions are in folder [Draft-V8-Display](/UmeSansDraft-V8-Display) and [Draft-V8-Text](/UmeSansDraft-V8-Text). We don't recommend using these anymore.
+You can download the latest version ` ཁ་བའི་སྤྲོས་མེད་དཔེ་ཚུགས།-v1.0.0.zip` in [Releases](/releases). The package come with 2 files in `.ttf` ~~and `woff2`~~. A more stable version is available on [Baidupan]( https://pan.baidu.com/s/1vdxChrwu2VaudwscPnyIaw?pwd=1111) for users from mainland China. 
+- Non-variable versions in `.otf` and `.ttf` formats are in folder [Non-Variable](/Non-Variable) for users with this need.
+- Original beta versions are in folder [BetaVersion](/BetaVersion). We don't recommend using these anymore.
 
-点击 [Releases](/releases) 可直接下载安装文件包，~~其中包含 4 个字体文件：
-.otf 和 .ttf 文件可用于桌面端安装，双击打开文件，按照系统提示安装文件即可；
-.woff2 为网页字体格式，供网站开发人员使用；~~
-大陆地区用户可从 [百度云盘]( https://pan.baidu.com/s/1vdxChrwu2VaudwscPnyIaw?pwd=1111) 获取最新的版本。
-- ~~需要在不支持可变字体的环境中使用字体的用户，可以在名为`不可变`的文件夹中获取传统字体文件。~~
-- 最初发布的测试版本仍可在[Draft-V8-Display](/UmeSansDraft-V8-Display) 和 [Draft-V8-Text](/UmeSansDraft-V8-Text)中找到。不推荐大家继续使用。
+点击 [Releases](/releases) 可直接下载安装文件包 `ཁ་བའི་སྤྲོས་མེད་དཔེ་ཚུགས།-v1.0.0.zip`，其中包含 2 个字体文件：`.ttf` 文件可用于桌面端安装，双击打开文件，按照系统提示安装文件即可。~~`.woff2` 为网页字体格式，供网站开发人员使用。~~ 大陆地区用户可从 [百度云盘]( https://pan.baidu.com/s/1vdxChrwu2VaudwscPnyIaw?pwd=1111) 获取最新的版本。
+- 需要在不支持可变字体的环境中使用字体的用户，可以在文件夹 [Non-Variable](/Non-Variable) 中获取格式为 `.otf` 和 `.ttf` 的传统字体文件。
+- 最初发布的测试版本仍可在 [BetaVersion](/BetaVersion) 中找到。不推荐大家继续使用。
 
 
 ## Supported Characters 
@@ -135,7 +132,7 @@ You can continue help with KhaWa Betsugs Sans in several ways:
 - Suggest better translations.
 - Submit changes to the fonts.
 
-
+Contact us:
 - [Weibo](https://weibo.com/n/KhaWaType)
 - [Twitter](https://twitter.com/KhaWaType)
 - [Download (百度云盘 in Chinese)](https://pan.baidu.com/s/1vdxChrwu2VaudwscPnyIaw?pwd=1111)
