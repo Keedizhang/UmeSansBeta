@@ -138,6 +138,7 @@ You can continue help with KhaWa Betsugs Sans in several ways:
 
 Contact us:
 - [Weibo](https://weibo.com/n/KhaWaType)
+- [Foundry Site](https://avocatio.studio/index.html)
 - [Twitter](https://twitter.com/KhaWaType)
 - [Download (百度云盘 in Chinese)](https://pan.baidu.com/s/1vdxChrwu2VaudwscPnyIaw?pwd=1111)
 - Kedi [Weibo](https://weibo.com/u/6240241937)
